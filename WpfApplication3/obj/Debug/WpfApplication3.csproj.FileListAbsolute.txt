@@ -1,0 +1,17 @@
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\Window1.g.cs
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\Window2.g.cs
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\Window1.baml
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\Window2.baml
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\djnav\OneDrive\Documentos\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
